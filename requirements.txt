@@ -1,0 +1,7 @@
+numpy
+pandas
+openpyxl
+requests
+yfinance
+beautifulsoup4
+duckduckgo-search
